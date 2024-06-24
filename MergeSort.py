@@ -42,7 +42,7 @@ def merge(arr, l, m, r):
         k += 1
  
 # l is for left index and r is right index of the
-# sub-array of arr to be sorted
+
  
  
 def mergeSort(arr, l, r):
